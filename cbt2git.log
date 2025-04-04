@@ -1,0 +1,15 @@
+2025-04-04 08:16:54.315576 - Received CBT.V508.FILE347.PDS from FILE347.XMI 
+2025-04-04 08:16:54.316537 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:16:54.316693 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/$$NOTE01
+2025-04-04 08:16:54.316835 - Found $$README.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/$$README
+2025-04-04 08:16:54.316968 - Found $DSW.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/$DSW
+2025-04-04 08:16:54.317096 - Found #SEG.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/#SEG
+2025-04-04 08:16:54.317219 - Found #XA.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/#XA
+2025-04-04 08:16:54.317358 - Found @FILE347.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/@FILE347
+2025-04-04 08:16:54.317506 - Found FINDSW.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/FINDSW
+2025-04-04 08:16:54.317624 - Found HEXCNVT.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/HEXCNVT
+2025-04-04 08:16:54.317749 - Found IF.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/IF
+2025-04-04 08:16:54.317895 - Found MODLIST.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/MODLIST
+2025-04-04 08:16:54.318015 - Found MODLIST$.jcl (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/MODLIST$
+2025-04-04 08:16:54.318132 - Found MODLIS01.jcl (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/MODLIS01
+2025-04-04 08:16:54.318253 - Found SAMPJCL.txt (text/plain) in CBT.V508.FILE347.PDS, moved to PDS/SAMPJCL
